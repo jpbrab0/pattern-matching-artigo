@@ -10,7 +10,9 @@
 
 O pattern matching é uma forma de desestruturar facilmente os tipos de dados, tuplas e listas. Támbem é um dos fundamentos da recursividade no Elixir.
 
-No elixir as variaveis não são atribuidas.
+> Ao longo do artigo iremos ver sobre o pattern matching e para entender os códigos escritos entenda um pouco sobre as váriaveis no elixir.
+
+No elixir as variaveis não são atribuidas por um valor.
 
 Para explicar melhor aqui está um exemplo:
 
